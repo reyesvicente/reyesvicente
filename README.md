@@ -28,8 +28,8 @@ Text         2 hrs 9 mins    █░░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Developing my local COVID-19 side project](https://medium.com/@highcenburg/developing-my-local-covid-19-side-project-9848b8bf00c8?source=rss-a0d95e60df10------2)
 - [Developing my local COVID-19 side project](https://dev.to/highcenburg/developing-my-local-covid-19-side-project-2oa6)
 - [[SOLVED]Show data from API on Django tempalte](https://dev.to/highcenburg/show-data-from-api-on-django-tempalte-566k)
 - [[SOLVED]Using an external API in Django](https://dev.to/highcenburg/using-an-external-api-in-django-1kki)
+- [PSQL Connect Issues](https://dev.to/highcenburg/psql-connect-issues-1g19)
 <!-- BLOG-POST-LIST:END -->
