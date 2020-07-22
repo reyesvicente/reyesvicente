@@ -1,5 +1,5 @@
 ### Hi there 👋
-{% include spotifyPlaylist.html id="7oujeUrwgwhYUQFRW7VlIR" %}
+{% include spotifyAlbum.html id="7oujeUrwgwhYUQFRW7VlIR" %}
 <p align="center">
   <a href="https://facebook.com/highcenbugtv"><img src="https://img.shields.io/badge/highcenbugtv-tv-blue" alt="HighcenbugTV"></a>
   <a href="https://github.com/reyesvicente"><img src="https://img.shields.io/github/followers/reyesvicente?label=Follow&style=social" alt="GitHub"></a>
