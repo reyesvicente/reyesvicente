@@ -14,3 +14,13 @@
 Languages | Activity
 ------------ | -------------
 ![](https://wakatime.com/share/@vgreyes/31b6042f-566a-4eab-a95a-20aad96c1600.png) | ![](https://wakatime.com/share/@vgreyes/9569364d-0544-4bb0-bee4-2faeb6d5c511.png)
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```
+```
+<!--END_SECTION:waka-->
+
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
