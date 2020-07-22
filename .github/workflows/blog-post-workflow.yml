@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest content
 on:
   schedule:
     # Runs every hour
@@ -14,5 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/highcenburg,https://medium.com/feed/@highcenburg
+          feed_list: "https://dev.to/feed/highcenburg,https://medium.com/feed/@highcenburg/"
+
 
