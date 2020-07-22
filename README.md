@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- Working for [Learnetto](https://learnetto.com) to produce content
+- [DEV](https://dev.to) Community Mod
+- Django Dev but learning Rails and React
+- [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
 
 <p align="center">
   <a href="https://facebook.com/highcenbugtv"><img src="https://img.shields.io/badge/highcenbugtv-tv-blue" alt="HighcenbugTV"></a>
