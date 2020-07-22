@@ -18,7 +18,7 @@ Languages | Activity
 ![](https://wakatime.com/share/@vgreyes/31b6042f-566a-4eab-a95a-20aad96c1600.png) | ![](https://wakatime.com/share/@vgreyes/9569364d-0544-4bb0-bee4-2faeb6d5c511.png)
 
 
-📕 **Latest Blog Posts**
+📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
 - [Developing my local COVID-19 side project](https://dev.to/highcenburg/developing-my-local-covid-19-side-project-2oa6)
 - [[SOLVED]Show data from API on Django tempalte](https://dev.to/highcenburg/show-data-from-api-on-django-tempalte-566k)
