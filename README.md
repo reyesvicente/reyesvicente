@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-{% include spotifyAlbum.html id=6rQ3KAbSmm97dNJfPMqpvo %}
+
 <p align="center">
   <a href="https://facebook.com/highcenbugtv"><img src="https://img.shields.io/badge/highcenbugtv-tv-blue" alt="HighcenbugTV"></a>
   <a href="https://github.com/reyesvicente"><img src="https://img.shields.io/github/followers/reyesvicente?label=Follow&style=social" alt="GitHub"></a>
