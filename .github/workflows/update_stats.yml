@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: vgreyes/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKA_TIME }}
-          GH_TOKEN: ${{ secrets.GHUB}}
+          WAKATIME_API_KEY: ${{ WAKA_TIME }}
+          GH_TOKEN: ${{ GHUB}}
           USERNAME: reyesvicente
           SHOW_TITLE: false
