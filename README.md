@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Working for [Learnetto](https://learnetto.com) to produce content
+- Working for [Learnetto](https://learnetto.com) as a web development content production assistant
 - [DEV](https://dev.to) Community Mod
 - Django Dev but learning Rails and React
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
