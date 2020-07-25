@@ -19,7 +19,10 @@
 
 Languages | Activity
 ------------ | -------------
-![](https://wakatime.com/share/@vgreyes/31b6042f-566a-4eab-a95a-20aad96c1600.png) | ![](https://wakatime.com/share/@vgreyes/9569364d-0544-4bb0-bee4-2faeb6d5c511.png)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vgreyes/48c45939-4d48-4a04-8cac-c1708792c69b.png" /></a> | <a href="https://wakatime.com"><img src="https://wakatime.com/share/@vgreyes/27f95b8a-e60c-4581-a211-1f2e34f0e304.png" /></a> 
+![Vicente's github stats](https://github-readme-stats.vercel.app/api?username=reyesvicente&show_icons=true&theme=dark&count_private=true) 
+
+
 
 
 📕 **Latest Content**
