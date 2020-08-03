@@ -27,8 +27,8 @@ Languages | Activity
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Using the update_attribute() API using the rails console](https://dev.to/highcenburg/using-the-updateattribute-api-using-the-rails-console-4e4c)
 - [Developing my local COVID-19 side project](https://dev.to/highcenburg/developing-my-local-covid-19-side-project-2oa6)
 - [[SOLVED]Show data from API on Django tempalte](https://dev.to/highcenburg/show-data-from-api-on-django-tempalte-566k)
 - [[SOLVED]Using an external API in Django](https://dev.to/highcenburg/using-an-external-api-in-django-1kki)
-- [PSQL Connect Issues](https://dev.to/highcenburg/psql-connect-issues-1g19)
 <!-- BLOG-POST-LIST:END -->
