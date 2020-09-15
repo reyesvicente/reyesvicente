@@ -17,10 +17,9 @@
 
 
 
-Languages | Activity
------------- | -------------
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vgreyes/48c45939-4d48-4a04-8cac-c1708792c69b.png" /></a> | <a href="https://wakatime.com"><img src="https://wakatime.com/share/@vgreyes/27f95b8a-e60c-4581-a211-1f2e34f0e304.png" /></a> 
-![Vicente's github stats](https://github-readme-stats.vercel.app/api?username=reyesvicente&show_icons=true&theme=dark&count_private=true) 
+Languages 
+------------ 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vgreyes/48c45939-4d48-4a04-8cac-c1708792c69b.png" /></a> 
 
 
 
