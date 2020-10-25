@@ -26,8 +26,8 @@ Languages
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Creating a blog with Cookiecutter-Django & deploying it to Heroku: Creating the blog project](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-creating-the-blog-project-5bmc)
 - [Creating a blog with Cookiecutter-Django & deploying it to Heroku: Introduction](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-introduction-2842)
 - [Dev Side Project: Updating the UI & using 2 more API's for more data](https://dev.to/highcenburg/dev-side-project-updating-the-ui-using-2-more-api-s-for-more-data-55in)
 - [Using the update_attribute() API using the rails console](https://dev.to/highcenburg/using-the-updateattribute-api-using-the-rails-console-4e4c)
-- [Developing my local COVID-19 side project](https://dev.to/highcenburg/developing-my-local-covid-19-side-project-2oa6)
 <!-- BLOG-POST-LIST:END -->
