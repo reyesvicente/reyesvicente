@@ -26,8 +26,8 @@ Languages
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy your Django app to Heroku for FREE](https://dev.to/highcenburg/how-to-deploy-your-django-app-to-heroku-for-free-1cf1)
+- [Showing the data we created on the frontend](https://dev.to/highcenburg/showing-the-data-we-created-on-the-frontend-3gfb)
 - [Creating the data and fine-tuning the templates](https://dev.to/highcenburg/creating-the-data-and-fine-tuning-the-templates-46a7)
 - [Testing our app using Unittests](https://dev.to/highcenburg/testing-our-app-using-unittests-3a75)
-- [Creating the models.py, views.py, urls.py, admin.py & the superuser](https://dev.to/highcenburg/creating-the-models-py-views-py-urls-py-admin-py-the-superuser-5gjn)
-- [Model Architecture Planning](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-ac0)
 <!-- BLOG-POST-LIST:END -->
