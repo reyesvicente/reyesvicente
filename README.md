@@ -26,8 +26,8 @@ Languages
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
-- [Creating a blog with Cookiecutter-Django & deploying it to Heroku: Creating the app for the blog](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-creating-the-app-for-the-blog-330b)
-- [Creating a blog with Cookiecutter-Django & deploying it to Heroku: Creating the blog project](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-creating-the-blog-project-5bmc)
-- [Creating a blog with Cookiecutter-Django & deploying it to Heroku: Introduction](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-introduction-2842)
-- [Dev Side Project: Updating the UI & using 2 more API's for more data](https://dev.to/highcenburg/dev-side-project-updating-the-ui-using-2-more-api-s-for-more-data-55in)
+- [Creating the data and fine-tuning the templates](https://dev.to/highcenburg/creating-the-data-and-fine-tuning-the-templates-46a7)
+- [Testing our app using Unittests](https://dev.to/highcenburg/testing-our-app-using-unittests-3a75)
+- [Creating the models.py, views.py, urls.py, admin.py & the superuser](https://dev.to/highcenburg/creating-the-models-py-views-py-urls-py-admin-py-the-superuser-5gjn)
+- [Model Architecture Planning](https://dev.to/highcenburg/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku-ac0)
 <!-- BLOG-POST-LIST:END -->
