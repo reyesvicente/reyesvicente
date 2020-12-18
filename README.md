@@ -4,7 +4,12 @@
 - Django Dev but learning Rails and React
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
 - [The Cocktain SID Show](https://facebook.com/thecocktainsidshow)
+------------
+<p align="center">
+<a href="https://stackoverflow.com/users/11630148/highcenbug"><img src="https://stackoverflow.com/users/flair/11630148.png?theme=dark" width="208" height="58" alt="profile for highcenbug at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for highcenbug at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
 
+-----------
 <p align="center">
   <a href="https://facebook.com/highcenbugtv"><img src="https://img.shields.io/badge/highcenbugtv-tv-blue" alt="HighcenbugTV"></a>
   <a href="https://github.com/reyesvicente"><img src="https://img.shields.io/github/followers/reyesvicente?label=Follow&style=social" alt="GitHub"></a>
@@ -19,8 +24,9 @@
 
 Languages 
 ------------ 
+<p align="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@vgreyes/48c45939-4d48-4a04-8cac-c1708792c69b.png" /></a> 
-
+</p>
 
 
 
