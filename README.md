@@ -32,8 +32,8 @@ Languages
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [How do you do validations with ReactJs forms?](https://dev.to/highcenburg/how-do-you-do-validations-with-reactjs-forms-191m)
 - [DO Hackathon Submission: Portfolio](https://dev.to/highcenburg/do-hackathon-submission-portfolio-46h1)
 - [6 most common a11y issues and how to solve them](https://dev.to/highcenburg/6-most-common-a11y-issues-and-how-to-solve-them-3acl)
 - [How to deploy your Django app to Heroku for FREE](https://dev.to/highcenburg/how-to-deploy-your-django-app-to-heroku-for-free-1cf1)
-- [Showing the data we created on the frontend](https://dev.to/highcenburg/showing-the-data-we-created-on-the-frontend-3gfb)
 <!-- BLOG-POST-LIST:END -->
