@@ -32,8 +32,8 @@ Languages
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Designing Better Models in Django](https://dev.to/highcenburg/designing-better-models-in-django-682)
 - [Explain git rebase to me like I'm five](https://dev.to/highcenburg/explain-git-rebase-to-me-like-i-m-five-df7)
 - [Are you an issue?](https://dev.to/highcenburg/are-you-an-issue-1g9j)
 - [How do you do validations with ReactJs forms?](https://dev.to/highcenburg/how-do-you-do-validations-with-reactjs-forms-191m)
-- [DO Hackathon Submission: Portfolio](https://dev.to/highcenburg/do-hackathon-submission-portfolio-46h1)
 <!-- BLOG-POST-LIST:END -->
