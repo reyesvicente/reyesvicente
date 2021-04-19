@@ -32,8 +32,8 @@ Languages
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Django's built in auth with jwt or a third party package with jwt?](https://dev.to/highcenburg/django-s-built-in-auth-with-jwt-or-a-third-party-package-with-jwt-5d0)
 - [How I'm preparing for a new job](https://dev.to/highcenburg/how-i-m-preparing-for-a-new-job-4m0n)
 - [Designing Better Models in Django](https://dev.to/highcenburg/designing-better-models-in-django-682)
 - [Explain git rebase to me like I'm five](https://dev.to/highcenburg/explain-git-rebase-to-me-like-i-m-five-df7)
-- [Are you an issue?](https://dev.to/highcenburg/are-you-an-issue-1g9j)
 <!-- BLOG-POST-LIST:END -->
