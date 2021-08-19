@@ -1,9 +1,9 @@
 ### Hi there 👋
+- Freelance Software Developer
 - Building [Indiependent.to](https://indiependent.to)
-- [DEV](https://dev.to) Community Mod
-- Django Dev but learning Rails and React
+- [DEV](https://dev.to) Tag Mod
+- Django Dev but learning React
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
-- [The Cocktain SID Show](https://facebook.com/thecocktainsidshow)
 ------------
 <p align="center">
 <a href="https://stackoverflow.com/users/11630148/highcenbug"><img src="https://stackoverflow.com/users/flair/11630148.png?theme=dark" width="208" height="58" alt="profile for highcenbug at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for highcenbug at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
@@ -11,7 +11,7 @@
 
 -----------
 <p align="center">
-  <a href="https://facebook.com/highcenbugtv"><img src="https://img.shields.io/badge/highcenbugtv-tv-blue" alt="HighcenbugTV"></a>
+  <a href="https://facebook.com/vagreyess"><img src="https://img.shields.io/badge/vagreyess-tv-blue" alt="Vicente Garcia-Reyes"></a>
   <a href="https://github.com/reyesvicente"><img src="https://img.shields.io/github/followers/reyesvicente?label=Follow&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/highcenburg"><img src="https://img.shields.io/twitter/follow/highcenburg?label=Follow&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/reyesvicente0888"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>	
