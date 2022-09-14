@@ -11,9 +11,9 @@
 
 -----------
 <p align="center">
-  <a href="https://facebook.com/vagreyess"><img src="https://img.shields.io/badge/vagreyess-tv-blue" alt="Vicente Garcia-Reyes"></a>
+  <a href="https://facebook.com/tonypoppinsgaming"><img src="https://img.shields.io/badge/vagreyess-tv-blue" alt="Vicente Garcia-Reyes"></a>
   <a href="https://github.com/reyesvicente"><img src="https://img.shields.io/github/followers/reyesvicente?label=Follow&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/highcenburg"><img src="https://img.shields.io/twitter/follow/highcenburg?label=Follow&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/highcenburg2"><img src="https://img.shields.io/twitter/follow/highcenburg?label=Follow&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/reyesvicente0888"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>	
   <a href="https://twitch.tv/highcenburg"><img src="https://img.shields.io/twitch/status/highcenburg?style=social" alt="Twitch"></a>
   <a href="https://reddit.com/u/icenreyes"><img src="https://img.shields.io/reddit/user-karma/combined/icenreyes?style=social" alt="Reddit"></a>
