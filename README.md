@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Freelance Software Developer
-- Building [Indiependent.to](https://indiependent.to)
+- Building stuff with Django
 - [DEV](https://dev.to) Tag Mod
 - Django Dev but learning React
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
