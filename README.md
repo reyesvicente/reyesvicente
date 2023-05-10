@@ -23,8 +23,7 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
-- [django-admin startapp vs python manage.py startapp](https://vicentereyes.org/django-admin-startapp-vs-python-managepy-startapp)
 - [Getting started with Django Rest Framework](https://vicentereyes.org/getting-started-with-django-rest-framework)
-- [Django Model Inheritance](https://vicentereyes.org/django-model-inheritance)
 - [Suppressing audio with Python](https://vicentereyes.org/suppressing-audio-with-python)
+- [Recover background audio with librosa and saving it with soundfile](https://vicentereyes.org/recover-background-audio-with-librosa-and-saving-it-with-soundfile)
 <!-- BLOG-POST-LIST:END -->
