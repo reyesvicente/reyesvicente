@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Freelance Software Developer
 - [DEV](https://dev.to) Tag Mod
-- Django Dev but learning Remix and Hydrogen
+- Python Dev
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
 ------------
 <p align="center">
