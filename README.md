@@ -4,6 +4,8 @@
 - Python Dev
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
 ------------
+[![An image of @reyesvicente's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reyesvicente)](https://holopin.io/@reyesvicente)
+------------
 <p align="center">
 <a href="https://stackoverflow.com/users/11630148/highcenbug"><img src="https://stackoverflow.com/users/flair/11630148.png?theme=dark" width="208" height="58" alt="profile for highcenbug at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for highcenbug at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
