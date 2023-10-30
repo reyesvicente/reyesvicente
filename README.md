@@ -24,7 +24,7 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Django Applications with a Custom Middleware](https://vicentereyes.org/enhancing-django-applications-with-a-custom-middleware)
 - [Getting started with Django Rest Framework](https://vicentereyes.org/getting-started-with-django-rest-framework)
 - [Suppressing audio with Python](https://vicentereyes.org/suppressing-audio-with-python)
-- [Recover background audio with librosa and saving it with soundfile](https://vicentereyes.org/recover-background-audio-with-librosa-and-saving-it-with-soundfile)
 <!-- BLOG-POST-LIST:END -->
