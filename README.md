@@ -24,7 +24,7 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Distinction: PUT vs. PATCH in API Design](https://vicentereyes.org/understanding-the-distinction-put-vs-patch-in-api-design)
+- [Enhancing Code Efficiency: A Deep Dive into the Popularity Algorithm](https://vicentereyes.org/enhancing-code-efficiency-a-deep-dive-into-the-popularity-algorithm)
 - [Enhancing Django Applications with a Custom Middleware](https://vicentereyes.org/enhancing-django-applications-with-a-custom-middleware)
-- [Getting started with Django Rest Framework](https://vicentereyes.org/getting-started-with-django-rest-framework)
-- [Suppressing audio with Python](https://vicentereyes.org/suppressing-audio-with-python)
 <!-- BLOG-POST-LIST:END -->
