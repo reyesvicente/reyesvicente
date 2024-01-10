@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Freelance Software Developer
-- [DEV](https://dev.to) Tag Mod
+- [DEV](https://dev.to/highcenburg) Tag Moderator
 - Python Dev
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
 ------------
