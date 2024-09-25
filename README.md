@@ -24,7 +24,7 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [How to Down-Pitch A Song Using Python](https://vicentereyes.org/how-to-down-pitch-a-song-using-python)
 - [Creating a URL Shortener with FastAPI, ReactJs and TailwindCSS](https://vicentereyes.org/creating-a-url-shortener-with-fastapi-reactjs-and-tailwindcss)
 - [Understanding the Distinction: PUT vs. PATCH in API Design](https://vicentereyes.org/understanding-the-distinction-put-vs-patch-in-api-design)
-- [Enhancing Code Efficiency: A Deep Dive into the Popularity Algorithm](https://vicentereyes.org/enhancing-code-efficiency-a-deep-dive-into-the-popularity-algorithm)
 <!-- BLOG-POST-LIST:END -->
