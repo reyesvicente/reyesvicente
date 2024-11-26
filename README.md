@@ -24,9 +24,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Magic of 432 Hz: Building a Music Frequency Analyzer](https://blog.vicentereyes.org/exploring-the-magic-of-432-hz-building-a-music-frequency-analyzer)
 - [How to Down-Pitch A Song Using Python](https://blog.vicentereyes.org/how-to-down-pitch-a-song-using-python)
 - [Creating a URL Shortener with FastAPI, ReactJs and TailwindCSS](https://blog.vicentereyes.org/creating-a-url-shortener-with-fastapi-reactjs-and-tailwindcss)
-- [Understanding the Distinction: PUT vs. PATCH in API Design](https://blog.vicentereyes.org/understanding-the-distinction-put-vs-patch-in-api-design)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
