@@ -25,9 +25,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [How to Validate Rectangular Images in Django Using Python](https://blog.vicentereyes.org/how-to-validate-rectangular-images-in-django-using-python)
 - [How to Add Quotes and Commas to Each Line in a Text File Using Python](https://blog.vicentereyes.org/how-to-add-quotes-and-commas-to-each-line-in-a-text-file-using-python)
 - [Speech to Musical Notation with AssemblyAI](https://blog.vicentereyes.org/speech-to-musical-notation-with-assemblyai)
-- [Exploring the Magic of 432 Hz: Building a Music Frequency Analyzer](https://blog.vicentereyes.org/exploring-the-magic-of-432-hz-building-a-music-frequency-analyzer)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
