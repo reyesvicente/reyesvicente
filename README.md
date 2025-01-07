@@ -25,9 +25,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap for Learning JavaScript and Beyond in 2025](https://blog.vicentereyes.org/roadmap-for-learning-javascript-and-beyond-in-2025)
 - [How to Validate Rectangular Images in Django Using Python](https://blog.vicentereyes.org/how-to-validate-rectangular-images-in-django-using-python)
 - [How to Add Quotes and Commas to Each Line in a Text File Using Python](https://blog.vicentereyes.org/how-to-add-quotes-and-commas-to-each-line-in-a-text-file-using-python)
-- [Speech to Musical Notation with AssemblyAI](https://blog.vicentereyes.org/speech-to-musical-notation-with-assemblyai)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
