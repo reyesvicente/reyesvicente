@@ -25,9 +25,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Learning intervals on the guitar](https://blog.vicentereyes.org/learning-intervals-on-the-guitar)
 - [Building a Python Metronome with PyQt6: A Guide to Audio and GUI Development](https://blog.vicentereyes.org/building-a-python-metronome-with-pyqt6-a-guide-to-audio-and-gui-development)
 - [Embracing the Future: How Technology is Shaping Our Lives](https://blog.vicentereyes.org/embracing-the-future-how-technology-is-shaping-our-lives)
-- [Stuck in a Rut? Let This Random A Day to Remember Song Picker Spark Your Creativity!](https://blog.vicentereyes.org/stuck-in-a-rut-let-this-random-a-day-to-remember-song-picker-spark-your-creativity)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
