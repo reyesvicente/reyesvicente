@@ -25,7 +25,7 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
-- [Understanding select_related vs prefetch_related in Django](understanding-selectrelated-vs-prefetchrelated-in-django)
+- [Understanding select_related vs prefetch_related in Django](https://blog.vicentereyes.org/understanding-selectrelated-vs-prefetchrelated-in-django)
 - [Understanding Django Relationships: OneToOneField vs ForeignKey vs ManyToManyField](https://blog.vicentereyes.org/understanding-django-relationships-onetoonefield-vs-foreignkey-vs-manytomanyfield)
 - [Reviewing FinalRoundAI: My First Experience with the AI Interview Copilot](https://blog.vicentereyes.org/reviewing-finalroundai-my-first-experience-with-the-ai-interview-copilot)
 <!-- BLOG-POST-LIST:END -->
