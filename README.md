@@ -25,9 +25,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
-- [Learning intervals on the guitar](https://blog.vicentereyes.org/learning-intervals-on-the-guitar)
-- [Building a Python Metronome with PyQt6: A Guide to Audio and GUI Development](https://blog.vicentereyes.org/building-a-python-metronome-with-pyqt6-a-guide-to-audio-and-gui-development)
-- [Embracing the Future: How Technology is Shaping Our Lives](https://blog.vicentereyes.org/embracing-the-future-how-technology-is-shaping-our-lives)
+- [Understanding select_related vs prefetch_related in Django](understanding-selectrelated-vs-prefetchrelated-in-django)
+- [Understanding Django Relationships: OneToOneField vs ForeignKey vs ManyToManyField](https://blog.vicentereyes.org/understanding-django-relationships-onetoonefield-vs-foreignkey-vs-manytomanyfield)
+- [Reviewing FinalRoundAI: My First Experience with the AI Interview Copilot](https://blog.vicentereyes.org/reviewing-finalroundai-my-first-experience-with-the-ai-interview-copilot)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
