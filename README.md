@@ -4,6 +4,7 @@
 - OSS Contributor
 - Gamer
 - [Musician](https://open.spotify.com/album/6rQ3KAbSmm97dNJfPMqpvo)
+- Cyclist
 ------------
 [![An image of @reyesvicente's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reyesvicente)](https://holopin.io/@reyesvicente)
 ------------
