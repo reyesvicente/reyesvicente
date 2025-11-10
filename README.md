@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Sum of Digits: A Beginner's Guide to String Iteration in Python](https://blog.vicentereyes.org/sum-of-digits-a-beginners-guide-to-string-iteration-in-python)
 - [This is one way I use AI for coding](https://blog.vicentereyes.org/this-is-one-way-i-use-ai-for-coding)
 - [Understanding select_related vs prefetch_related in Django](https://blog.vicentereyes.org/understanding-selectrelated-vs-prefetchrelated-in-django)
-- [Understanding Django Relationships: OneToOneField vs ForeignKey vs ManyToManyField](https://blog.vicentereyes.org/understanding-django-relationships-onetoonefield-vs-foreignkey-vs-manytomanyfield)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
