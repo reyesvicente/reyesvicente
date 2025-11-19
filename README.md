@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Finding Min and Max Without Built-in Functions: A Python Tutorial](https://blog.vicentereyes.org/finding-min-and-max-without-built-in-functions-a-python-tutorial)
 - [Sum of Digits: A Beginner's Guide to String Iteration in Python](https://blog.vicentereyes.org/sum-of-digits-a-beginners-guide-to-string-iteration-in-python)
 - [This is one way I use AI for coding](https://blog.vicentereyes.org/this-is-one-way-i-use-ai-for-coding)
-- [Understanding select_related vs prefetch_related in Django](https://blog.vicentereyes.org/understanding-selectrelated-vs-prefetchrelated-in-django)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
