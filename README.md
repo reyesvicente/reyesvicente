@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Mastering FizzBuzz in Python: A Step-by-Step Guide](https://blog.vicentereyes.org/mastering-fizzbuzz-in-python-a-step-by-step-guide)
 - [Finding Min and Max Without Built-in Functions: A Python Tutorial](https://blog.vicentereyes.org/finding-min-and-max-without-built-in-functions-a-python-tutorial)
 - [Sum of Digits: A Beginner's Guide to String Iteration in Python](https://blog.vicentereyes.org/sum-of-digits-a-beginners-guide-to-string-iteration-in-python)
-- [This is one way I use AI for coding](https://blog.vicentereyes.org/this-is-one-way-i-use-ai-for-coding)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
