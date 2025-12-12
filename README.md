@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://blog.vicentereyes.org/brutal-efficiency-a-tech-breakdown-of-my-portfolio)
 - [Flatten a Nested List](https://blog.vicentereyes.org/flatten-a-nested-list)
 - [Mastering FizzBuzz in Python: A Step-by-Step Guide](https://blog.vicentereyes.org/mastering-fizzbuzz-in-python-a-step-by-step-guide)
-- [Finding Min and Max Without Built-in Functions: A Python Tutorial](https://blog.vicentereyes.org/finding-min-and-max-without-built-in-functions-a-python-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
