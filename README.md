@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Factorial](https://blog.vicentereyes.org/factorial)
+- [Reverse a List (without using reverse())](https://blog.vicentereyes.org/reverse-a-list-without-using-reverse)
 - [Palindrome Checker](https://blog.vicentereyes.org/palindrome-checker)
-- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://blog.vicentereyes.org/brutal-efficiency-a-tech-breakdown-of-my-portfolio)
-- [Flatten a Nested List](https://blog.vicentereyes.org/flatten-a-nested-list)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
