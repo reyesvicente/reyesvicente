@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
-- [Factorial](https://blog.vicentereyes.org/factorial)
-- [Reverse a List (without using reverse())](https://blog.vicentereyes.org/reverse-a-list-without-using-reverse)
-- [Palindrome Checker](https://blog.vicentereyes.org/palindrome-checker)
+- [Problem 10: Duplicate Removal](https://blog.vicentereyes.org/problem-10-duplicate-removal)
+- [Problem 9: Most Frequent Element](https://blog.vicentereyes.org/problem-9-most-frequent-element)
+- [Problem 8: Count Vowels](https://blog.vicentereyes.org/problem-8-count-vowels)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
