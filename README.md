@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [How I Fixed a Critical Memory Leak in My Python Audio App](https://blog.vicentereyes.org/how-i-fixed-a-critical-memory-leak-in-my-python-audio-app)
 - [Problem 10: Duplicate Removal](https://blog.vicentereyes.org/problem-10-duplicate-removal)
 - [Problem 9: Most Frequent Element](https://blog.vicentereyes.org/problem-9-most-frequent-element)
-- [Problem 8: Count Vowels](https://blog.vicentereyes.org/problem-8-count-vowels)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
