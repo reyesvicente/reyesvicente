@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Boosting LCP: A Guide to fetchpriority="high"](https://blog.vicentereyes.org/boosting-lcp-a-guide-to-fetchpriorityhigh)
 - [Problem 12: Find Pairs with Target Sum](https://blog.vicentereyes.org/problem-12-find-pairs-with-target-sum)
 - [Problem 11: Count Character Frequency](https://blog.vicentereyes.org/problem-11-count-character-frequency)
-- [How I Fixed a Critical Memory Leak in My Python Audio App](https://blog.vicentereyes.org/how-i-fixed-a-critical-memory-leak-in-my-python-audio-app)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
