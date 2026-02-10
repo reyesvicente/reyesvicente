@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
+- [Problem 13: Group Anagrams](https://blog.vicentereyes.org/problem-13-group-anagrams)
 - [Boosting LCP: A Guide to fetchpriority="high"](https://blog.vicentereyes.org/boosting-lcp-a-guide-to-fetchpriorityhigh)
 - [Problem 12: Find Pairs with Target Sum](https://blog.vicentereyes.org/problem-12-find-pairs-with-target-sum)
-- [Problem 11: Count Character Frequency](https://blog.vicentereyes.org/problem-11-count-character-frequency)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
