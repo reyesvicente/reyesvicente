@@ -26,9 +26,9 @@
 
 📕 **Latest Content**
 <!-- BLOG-POST-LIST:START -->
-- [Problem 13: Group Anagrams](https://blog.vicentereyes.org/problem-13-group-anagrams)
-- [Boosting LCP: A Guide to fetchpriority="high"](https://blog.vicentereyes.org/boosting-lcp-a-guide-to-fetchpriorityhigh)
-- [Problem 12: Find Pairs with Target Sum](https://blog.vicentereyes.org/problem-12-find-pairs-with-target-sum)
+- [The Great Decoupling: Is Headless WordPress Right for Your Next Project?](https://blog.vicentereyes.org/the-great-decoupling-is-headless-wordpress-right-for-your-next-project)
+- [To Headless or Not to Headless? A Shopify Expert’s Guide to the Pros and Cons](https://blog.vicentereyes.org/to-headless-or-not-to-headless-a-shopify-experts-guide-to-the-pros-and-cons)
+- [Problem 14: Check if a Number is Prime](https://blog.vicentereyes.org/problem-14-check-if-a-number-is-prime)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills 
