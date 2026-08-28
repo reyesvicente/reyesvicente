@@ -67,3 +67,14 @@
 <a href="https://render.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="42" /></a>
 
 </p>
+
+### ⏱️ Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@vgreyes">
+    <img src="https://wakatime.com/share/@vgreyes/99c88a6b-ec9b-4833-aa0b-003e1a8ae1ae.svg" width="49%" />
+  </a>
+  <a href="https://wakatime.com/@vgreyes">
+    <img src="https://wakatime.com/share/@vgreyes/b0f587b2-bb6f-41e3-8eb8-1a7f007bfdeb.svg" width="49%" />
+  </a>
+</p>
